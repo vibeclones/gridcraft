@@ -6,4 +6,4 @@ Hosted copies of the browser (WebAssembly) builds of [gridcraft](https://github.
 - Specific version: `/gridcraft/v<version>/`
 - Version list: `/gridcraft/versions.json`
 
-Each version folder is the unmodified contents of upstream's `gridcraft-web-<version>.zip` release asset, including its license files. Upstream license: . A scheduled workflow mirrors new releases.
+Each version folder is the unmodified contents of upstream's `gridcraft-web-<version>.zip` release asset, including its license files. Upstream license: Apache-2.0. A scheduled workflow mirrors new releases.
